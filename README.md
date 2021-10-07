@@ -4,7 +4,7 @@ Contribute a connector to open-source Airbyte and win prizes!
 
 ## Guidelines
 
-Read [here](GUIDELINES.md) for a checklist that must be completed for each connector built.
+Read [here](GUIDELINES.md) for all the rules about the contest and a checklist on connector requirements.
 
 ## Prizes
 
