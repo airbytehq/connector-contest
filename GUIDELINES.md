@@ -1,4 +1,16 @@
-# Guidelines
+# Guidelines for Airbyte Hacktoberfest
+
+## Step 1
+Check out the [issues page](https://github.com/airbytehq/hacktoberfest-2021/issues) and look for a connector that you're interested in building. If you can't find one that you want to do or if you have one already in mind that isn't here, simply create an issue for it!
+
+## Step 2
+Comment on the connector issue you're interested in with "I'll work on this one!" or something to that extent. It's first-come first-serve, so if someone has commented on it already, it's theirs to work on. If there is no activity within five days of someone commenting, we'll look to free up the issue again.
+
+As a heads up, you can only be working on one connector at a time!
+
+## Step 3
+
+Create your connector in accordance with the following checklist:
 
 In order for your connector to be eligible for rewards, you must pass the following criteria within the event's duration:
 
@@ -16,3 +28,6 @@ In order for your connector to be eligible for rewards, you must pass the follow
 - [ ] PR name follows [PR naming conventions](https://docs.airbyte.io/contributing-to-airbyte/updating-documentation#issues-and-pull-requests)
 - [ ] Connector added to connector index like described [here](https://docs.airbyte.io/connector-development#publishing-a-connector)
    
+## Step 4
+
+Merge your PR and claim your reward! You can also now work on another connector if you're feeling inspired!
