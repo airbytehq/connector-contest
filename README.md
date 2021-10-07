@@ -4,12 +4,15 @@ Contribute a connector to open-source Airbyte and win prizes!
 
 ## Guidelines
 
-Read [here](GUIDELINES.md)
+Read [here](GUIDELINES.md) for a checklist that must be completed for each connector built.
 
 ## Prizes
-1st place: $1000 + Airbyte Swag Pack
-2nd place: $750 + Airbyte Swag Pack
-Any entry: $500?
+
+* 1st place: $1000 + Airbyte Swag Pack
+* 2nd place: $750 + Airbyte Swag Pack
+* Any entry: $500
+
+There is no limit on how many connectors one individual can submit, but teams that submit a connector will only receive one prize per connector.
 
 Any connector contribution entry will count for double the points on https://airbyte.io/contributors.
 
