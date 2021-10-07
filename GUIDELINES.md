@@ -13,7 +13,7 @@ Once you have commented, we will respond telling you that you're good to go. You
 
 ## Step 4
 
-Create your connector in accordance with the following checklist:
+Create your connector in accordance with the following checklist. Your PR must be opened against the [open-source Airbyte monorepo](https://github.com/airbytehq/airbyte) from your [fork](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork). Check out [these instructions] for guidelines to local development.
 
 In order for your connector to be eligible for rewards, you must pass the following criteria within the event's duration:
 
