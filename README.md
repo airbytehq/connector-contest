@@ -6,6 +6,13 @@ Contribute a connector to open-source Airbyte and win prizes!
 
 Read [here](GUIDELINES.md) for all the rules about the contest and a checklist on connector requirements.
 
+## Helpful Resources
+
+* [Python CDK Docs](https://docs.airbyte.io/connector-development)
+* [CDK Tutorial: Creating an HTTP API Source](https://docs.airbyte.io/connector-development/tutorials/cdk-tutorial-python-http)
+* [CDK Tutorial: HTTP API Source Speedrun](https://docs.airbyte.io/connector-development/tutorials/cdk-speedrun)
+* [CDK Video: HTTP API Source Speedrun](https://www.youtube.com/watch?v=kJ3hLoNfz_E&t=4s&ab_channel=Airbyte)
+
 ## Prizes
 
 * 1st place: $1000 + Airbyte Swag Pack

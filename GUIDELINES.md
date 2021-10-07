@@ -9,6 +9,9 @@ Comment on the connector issue you're interested in with "I'll work on this one!
 As a heads up, you can only be working on one connector at a time!
 
 ## Step 3
+Once you have commented, we will respond telling you that you're good to go. You can now start working on your connector!
+
+## Step 4
 
 Create your connector in accordance with the following checklist:
 
@@ -30,6 +33,6 @@ In order for your connector to be eligible for rewards, you must pass the follow
 - [ ] PR name follows [PR naming conventions](https://docs.airbyte.io/contributing-to-airbyte/updating-documentation#issues-and-pull-requests)
 - [ ] Connector added to connector index like described [here](https://docs.airbyte.io/connector-development#publishing-a-connector)
    
-## Step 4
+## Step 5
 
 Merge your PR and claim your reward! You can also now work on another connector if you're feeling inspired!
