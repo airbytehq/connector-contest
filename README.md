@@ -19,7 +19,7 @@ Read [here](GUIDELINES.md) for all the rules about the contest and a checklist o
 * 2nd place: $750 + Airbyte Swag Pack
 * Any entry: $500
 
-There is no limit on how many connectors one individual can submit, but teams that submit a connector will only receive one prize per connector. You can only work on one connector issue at a time.
+There is no limit on how many connectors one individual can submit, but teams that submit a connector will only receive one prize per connector. You can only work on one connector issue at a time. To clarify, you will be paid $500 for each accepted entry!
 
 Any connector contribution entry will count for double the points on https://airbyte.io/contributors.
 
