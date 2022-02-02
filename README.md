@@ -1,6 +1,5 @@
-![](./assets/airbyte-oktoberfest.png)
-# hacktoberfest-2021
-Contribute a connector to open-source Airbyte and win prizes!
+# Airbyte Connector Contest
+Contribute a connector to open-source Airbyte and win cash!
 
 ## Guidelines
 
@@ -15,13 +14,11 @@ Read [here](GUIDELINES.md) for all the rules about the contest and a checklist o
 
 ## Prizes
 
-* 1st place: $1000 + Airbyte Swag Pack
-* 2nd place: $750 + Airbyte Swag Pack
-* Any entry: $500
+**For every connector created, you will receive $500 USD.**
+
+Additionally, there will be monthly MVPs that will receive swag and an additional cash prize based on contribution amount.
 
 There is no limit on how many connectors one individual can submit, but teams that submit a connector will only receive one prize per connector. You can only work on one connector issue at a time. To clarify, you will be paid $500 for each accepted entry!
-
-Any connector contribution entry will count for double the points on https://airbyte.io/contributors.
 
 ## Requirements
 * Must be merged by Nov 15, 2021

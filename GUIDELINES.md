@@ -1,4 +1,4 @@
-# Guidelines for Airbyte Hacktoberfest
+# Guidelines for the Airbyte Connector Contest
 
 ## Step 1
 Check out the [issues page](https://github.com/airbytehq/hacktoberfest-2021/issues) and look for a connector that you're interested in building. If you can't find one that you want to do or if you have one already in mind that isn't here, simply create an issue for it!
