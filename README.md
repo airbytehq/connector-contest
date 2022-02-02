@@ -22,7 +22,7 @@ There is no limit on how many connectors one individual can submit, but teams th
 
 ## Requirements
 * Must be merged by Nov 15, 2021
-* Must follow the [checklist](https://github.com/airbytehq/hacktoberfest-2021/blob/main/GUIDELINES.md#connector-checklist) for all requirements.
+* Must follow the [checklist](https://github.com/airbytehq/connector-contest/blob/main/GUIDELINES.md#connector-checklist) for all requirements.
 * Must have proper documentation for Getting Started and usage.
 * Must include a sandbox account for integration tests.
 
