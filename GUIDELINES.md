@@ -1,7 +1,7 @@
 # Guidelines for the Airbyte Connector Contest
 
 ## Step 1
-Check out the [issues page](https://github.com/airbytehq/connector-contest/issues) and look for a connector that you're interested in building. If you can't find one that you want to do or if you have one already in mind that isn't here, simply create an issue for it!
+Check out the [issues page](https://github.com/airbytehq/connector-contest/issues) and look for a connector that you're interested in building. You can also check out our [connector request](https://airbyte.com/connector-requests) page to find which connectors are in most demand. If you can't find one that you want to do or if you have one already in mind that isn't here, simply create an issue for it!
 
 ## Step 2
 Comment on the connector issue you're interested in with "I'll work on this one!" or something to that extent. It's first-come first-serve, so if someone has commented on it already, it's theirs to work on. If there is no activity within five days of someone commenting, we'll look to free up the issue again.
