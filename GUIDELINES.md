@@ -13,7 +13,7 @@ Once you have commented, we will respond telling you that you're good to go. You
 
 ## Step 4
 
-Create your connector in accordance with the following checklist. Your PR must be opened against the [open-source Airbyte monorepo](https://github.com/airbytehq/airbyte) from your [fork](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork). Check out [these instructions](https://docs.airbyte.io/connector-development) for an overview on connector development.
+Create your connector in accordance with the following checklist. Your PR must be opened against the [open-source Airbyte monorepo](https://github.com/airbytehq/airbyte) from your [fork](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork). Check out [these instructions](https://docs.airbyte.com/connector-development/) for an overview on connector development.
 
 In order for your connector to be eligible for rewards, you must pass the following criteria within the event's duration:
 
@@ -28,12 +28,13 @@ In order for your connector to be eligible for rewards, you must pass the follow
   - [ ] Connector's `README.md`
   - [ ] Connector's `bootstrap.md`. See [description and examples](https://docs.google.com/document/d/1ypdgmwmEHWv-TrO4_YOQ7pAJGVrMp5BOkEVh831N260/edit?usp=sharing)
   - [ ] `docs/SUMMARY.md`
-  - [ ] `docs/integrations/<source or destination>/<name>.md` including changelog. See changelog [example](https://docs.airbyte.io/integrations/sources/stripe#changelog)
+  - [ ] `docs/integrations/<source or destination>/<name>.md` including changelog. See changelog [example](https://docs.airbyte.com/integrations/sources/stripe#changelog)
   - [ ] `docs/integrations/README.md`
   - [ ] `airbyte-integrations/builds.md`
-- [ ] PR name follows [PR naming conventions](https://docs.airbyte.io/contributing-to-airbyte/updating-documentation#issues-and-pull-requests)
-- [ ] Connector added to connector index like described [here](https://docs.airbyte.io/connector-development#publishing-a-connector)
+- [ ] PR name follows [PR naming conventions](https://docs.airbyte.com/contributing-to-airbyte/issues-and-pull-requests)
+- [ ] Connector added to connector index like described [here](https://docs.airbyte.com/connector-development/#publishing-a-connector)
    
 ## Step 5
 
 Merge your PR and claim your reward! You can also now work on another connector if you're feeling inspired!
+
