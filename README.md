@@ -1,5 +1,5 @@
 # Airbyte Connector Contest
-Contribute a connector to open-source Airbyte and win cash!
+Contribute a connector to open-source Airbyte and win cash. We encourage you to build connectors faster and easier using our new [Low Code CDK](https://docs.airbyte.com/connector-development/config-based/)!
 
 ## Guidelines
 
@@ -7,8 +7,8 @@ Read [here](GUIDELINES.md) for all the rules about the contest and a checklist o
 
 ## Helpful Resources
 
-* [Python CDK Docs](https://docs.airbyte.io/connector-development)
 * [Low Code CDK Docs](https://docs.airbyte.com/connector-development/config-based/)
+* [Python CDK Docs](https://docs.airbyte.io/connector-development)
 * [CDK Tutorial: Creating an HTTP API Source](https://docs.airbyte.io/connector-development/tutorials/cdk-tutorial-python-http)
 * [CDK Tutorial: HTTP API Source Speedrun](https://docs.airbyte.io/connector-development/tutorials/cdk-speedrun)
 * [CDK Video: HTTP API Source Speedrun](https://www.youtube.com/watch?v=kJ3hLoNfz_E&t=4s&ab_channel=Airbyte)
