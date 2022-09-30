@@ -29,3 +29,6 @@ There is no limit on how many connectors one individual can submit, but teams th
 
 ## Restrictions
 Certain connectors may be restricted from this contest based on their already in-progress work or in-house requirements that need to be fulfilled. Make sure to get affirmation or acknowledgement before starting work on a connector for the contest.
+
+## Questions / Feedback
+If you have questions as you're building or you'd like to share feedback with us on the low code CDK, please join [our Slack channel here](https://join.slack.com/share/enQtNDEzMjUzNTQ5OTg0Ny0xN2I2MDU4NGFkOTNlYzZlN2JmMGIzOTgyMjU1ODk1MDIzZWM5YTAzMThkMDFkNzgzNWNjNzljOGU1MmRhMDIw)!
