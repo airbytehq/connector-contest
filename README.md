@@ -9,10 +9,10 @@ Read [here](GUIDELINES.md) for all the rules about the contest and a checklist o
 
 * [Low Code CDK Docs](https://docs.airbyte.com/connector-development/config-based/)
 * [Low Code CDK Video Tutorial: Part 1](https://youtu.be/i7VSL2bDvmw)
-* [Python CDK Docs](https://docs.airbyte.io/connector-development)
+<!--- [Python CDK Docs](https://docs.airbyte.io/connector-development)
 * [CDK Tutorial: Creating an HTTP API Source](https://docs.airbyte.io/connector-development/tutorials/cdk-tutorial-python-http)
 * [CDK Tutorial: HTTP API Source Speedrun](https://docs.airbyte.io/connector-development/tutorials/cdk-speedrun)
-* [CDK Video: HTTP API Source Speedrun](https://www.youtube.com/watch?v=kJ3hLoNfz_E&t=4s&ab_channel=Airbyte)
+* [CDK Video: HTTP API Source Speedrun](https://www.youtube.com/watch?v=kJ3hLoNfz_E&t=4s&ab_channel=Airbyte) --->
 
 ## Prizes
 
