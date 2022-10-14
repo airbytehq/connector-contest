@@ -17,11 +17,15 @@ Read [here](GUIDELINES.md) for all the rules about the contest and a checklist o
 
 ## Prizes
 
-**For every connector created, you will receive $500 USD.**
+For every connector you create and have approved:
+* **Low-Code CDK**: $700 for every approved PR
+* **Bug / Issue surfaced on the Low-Code CDK**:  $100  (we must be able to reproduce it)
+* **Python CDK**: $500 for every approved PR
+* **Airbyte Swag**
 
 Additionally, there will be monthly MVPs that will receive swag and an additional cash prize based on contribution amount.
 
-There is no limit on how many connectors one individual can submit, but teams that submit a connector will only receive one prize per connector. You can only work on one connector issue at a time. To clarify, you will be paid $500 for each accepted entry!
+There is no limit on how many connectors one individual can submit, but teams that submit a connector will only receive one prize per connector. You can only work on one connector issue at a time. To clarify, you will be paid for each accepted entry!
 
 ## Requirements
 * Must be merged by Nov 2, 2022
